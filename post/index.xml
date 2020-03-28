@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 🦊的小窝🐾</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on 🦊的小窝🐾</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 28 Feb 2020 11:23:32 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>这个糟糕的年</title>
+      <link>http://localhost:1313/post/%E8%BF%99%E4%B8%AA%E7%B3%9F%E7%B3%95%E7%9A%84%E5%B9%B4/</link>
+      <pubDate>Fri, 28 Feb 2020 11:23:32 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E8%BF%99%E4%B8%AA%E7%B3%9F%E7%B3%95%E7%9A%84%E5%B9%B4/</guid>
+      <description>元旦没过多久，我的键盘坏了，蝴蝶按键真的不靠谱，这才一年就挂了个回车键，只能将就着坚持到了放年假再去修，毕竟送修了，没工具干活了就。这个却“</description>
+    </item>
+    
+    <item>
+      <title>第3篇</title>
+      <link>http://localhost:1313/post/%E7%AC%AC3%E7%AF%87/</link>
+      <pubDate>Mon, 17 Feb 2020 14:39:37 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E7%AC%AC3%E7%AF%87/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
