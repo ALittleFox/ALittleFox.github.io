@@ -6,26 +6,35 @@
     <description>Recent content in Posts on 🦊的小窝🐾</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 13 May 2020 13:38:28 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 14:09:08 +0800</lastBuildDate>
     
 	<atom:link href="https://alittlefox.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Neutrino安装</title>
+      <link>https://alittlefox.github.io/post/neutrino/neutrino%E5%AE%89%E8%A3%85/</link>
+      <pubDate>Wed, 13 May 2020 14:09:08 +0800</pubDate>
+      
+      <guid>https://alittlefox.github.io/post/neutrino/neutrino%E5%AE%89%E8%A3%85/</guid>
+      <description>安装Neutrino 要求 安装 Neutrino 需要 node.js 10+，yarn 或者 npm。至少你应该安装 Neutrino 或者 Neutrino 中间件，比如 @neutrinojs/react。 创建新</description>
+    </item>
+    
+    <item>
       <title>Neutrino简介</title>
-      <link>https://alittlefox.github.io/post/neutrino%E7%AE%80%E4%BB%8B/</link>
+      <link>https://alittlefox.github.io/post/neutrino/neutrino%E7%AE%80%E4%BB%8B/</link>
       <pubDate>Wed, 13 May 2020 13:38:28 +0800</pubDate>
       
-      <guid>https://alittlefox.github.io/post/neutrino%E7%AE%80%E4%BB%8B/</guid>
+      <guid>https://alittlefox.github.io/post/neutrino/neutrino%E7%AE%80%E4%BB%8B/</guid>
       <description>零配置的创建和构造现代JavaScript应用 neutrino是webpack的gone能和预设的简单结合 https://github.com/neutrinojs/neutrino neutrino是一个辅助工具，</description>
     </item>
     
     <item>
       <title>这个糟糕的年</title>
-      <link>https://alittlefox.github.io/post/%E8%BF%99%E4%B8%AA%E7%B3%9F%E7%B3%95%E7%9A%84%E5%B9%B4/</link>
+      <link>https://alittlefox.github.io/post/other/%E8%BF%99%E4%B8%AA%E7%B3%9F%E7%B3%95%E7%9A%84%E5%B9%B4/</link>
       <pubDate>Fri, 28 Feb 2020 11:23:32 +0800</pubDate>
       
-      <guid>https://alittlefox.github.io/post/%E8%BF%99%E4%B8%AA%E7%B3%9F%E7%B3%95%E7%9A%84%E5%B9%B4/</guid>
+      <guid>https://alittlefox.github.io/post/other/%E8%BF%99%E4%B8%AA%E7%B3%9F%E7%B3%95%E7%9A%84%E5%B9%B4/</guid>
       <description>元旦没过多久，我的键盘坏了，蝴蝶按键真的不靠谱，这才一年就挂了个回车键，只能将就着坚持到了放年假再去修，毕竟送修了，没工具干活了就。这个却“</description>
     </item>
     
